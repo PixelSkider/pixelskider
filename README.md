@@ -1,7 +1,7 @@
 ### Hi I am PixelSkider 👋
-
-There are ![Visitor Count](https://profile-counter.glitch.me/pixelskider/count.svg) came to my github
-
+> 好的代码是一种艺术，而不是一种技术
+> 
+> 一个美好的艺术
 
 I like java
 
