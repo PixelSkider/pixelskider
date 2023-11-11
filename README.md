@@ -11,3 +11,4 @@ My projects
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelskider&show_icons=true)
 
+![](https://raw.githubusercontent.com/pixelskider/pixelskider/main/assets/github-contribution-grid-snake.svg)
