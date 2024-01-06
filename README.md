@@ -17,7 +17,7 @@ There are somethings about me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelSkider&layout=compact)
 
 ### 2.My projects
-(also less...🤣)
+(also little less...🤣)
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelskider&show_icons=true)
 
