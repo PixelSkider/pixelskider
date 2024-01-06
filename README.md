@@ -19,6 +19,8 @@ There are somethings about me
 ### 2.My projects
 (also little less...🤣)
 
+(I failed...😅)
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelskider&show_icons=true)
 
 ### 3.My info
