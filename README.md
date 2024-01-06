@@ -1,17 +1,21 @@
-### Hi I am [PixelSkider](https://pixelskider.github.io/) 👋
+### Welcome to my github 🥰
+My blog : [Blog😎](https://pixelskider.github.io/)
 
+My bilibili : [Video platform in China🙂](https://space.bilibili.com/1686297601)
 
-### My Programming languages
+There are somethings about me
+### 1.My Programming languages
+(a little less...🤣)
 
+(but i am a student🤔)
 
-(a little less...)
+![java](https://img.shields.io/badge/-Java-pink?style=flat-square&logo=OpenJDK&logoColor=black)
+![kotlin](https://img.shields.io/badge/-Kotlin-pink?style=flat-square&logo=kotlin&logoColor=black)
+![html5](https://img.shields.io/badge/-Html5-pink?style=flat-square&logo=Html5&logoColor=black)
 
-![java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=OpenJDK&logoColor=white)
-![kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelSkider&layout=compact)
 
-### My projects
-
-
-(also less...)
+### 2.My projects
+(also less...🤣)
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelskider&show_icons=true)
