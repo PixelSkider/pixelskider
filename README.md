@@ -1,12 +1,13 @@
 ### Hi I am [PixelSkider](https://pixelskider.github.io/) 👋
-> 好的代码是一种艺术，而不是一种技术
-> 
-> 一个美好的艺术
 
-I like java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelskider)](https://github.com/pixelskider/github-readme-stats)
+### My Programming languages
 
+![java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=OpenJDK&logoColor=white)
+![kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&logoColor=white)
+
+![](https://raw.githubusercontent.com/pixelskider/pixelskider/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/pixelskider/pixelskider/master/generated/languages.svg)
 My projects
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelskider&show_icons=true)
